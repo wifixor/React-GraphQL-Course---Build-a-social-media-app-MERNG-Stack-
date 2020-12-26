@@ -1,0 +1,26 @@
+{
+  "name": "React-GraphQL-Course---Build-a-social-media-app-MERNG-Stack-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wifixor/React-GraphQL-Course---Build-a-social-media-app-MERNG-Stack-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wifixor/React-GraphQL-Course---Build-a-social-media-app-MERNG-Stack-/issues"
+  },
+  "homepage": "https://github.com/wifixor/React-GraphQL-Course---Build-a-social-media-app-MERNG-Stack-#readme",
+  "dependencies": {
+    "apollo-server": "^2.19.1",
+    "graphql": "^15.4.0",
+    "graphql-tag": "^2.11.0",
+    "mongoose": "^5.11.8"
+  }
+}
